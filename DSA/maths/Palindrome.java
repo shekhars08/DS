@@ -23,6 +23,4 @@ public class Palindrome {
         boolean res = palindrome(n);
         System.out.println("number is palindrome :"  +res );
     }
-
-
 }
